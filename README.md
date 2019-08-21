@@ -6,7 +6,7 @@ This sticker sheet will cover the different UI surfaces available to plugins. It
 
 ## Downloading the XD file 
 
-![Download example](../images/Github_download_XD_file.png)
+![Download example](/images/Github_download_XD_file.png)
 
 
 
